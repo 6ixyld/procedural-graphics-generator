@@ -29,7 +29,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш_пользователь/procedural-graphics-python.git
+git clone https://github.com/6ixyld/procedural-graphics-python.git
 cd procedural-graphics-python
 Установите зависимости:
 pip install -r requirements.txt
