@@ -31,3 +31,9 @@
 ```bash
 git clone https://github.com/ваш_пользователь/procedural-graphics-python.git
 cd procedural-graphics-python
+Установите зависимости:
+pip install -r requirements.txt
+Запустите приложение:
+python app.py
+Откройте браузер и перейдите:
+http://127.0.0.1:5000
